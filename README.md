@@ -36,6 +36,7 @@ Data Processing and Storage Can Limit Facial Recognition Tech: Even though high-
 
 
 # Code - Facial reconition
+You first need to import the following libraries.
 
 import face_recognition as fr
 import os
